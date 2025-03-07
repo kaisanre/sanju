@@ -6,7 +6,7 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://www.sanju.sh",
+	site: "https://sanju-rho.vercel.app/",
 	integrations: [
 		mdx(),
 		sitemap({
